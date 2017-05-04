@@ -1,0 +1,27 @@
+/*
+|-------------------------------------------------------------------------- 
+| custom CSS //////////////////////////////////////////////////////////////
+| Control app.blade.php ///////////////////////////////////////////////////
+| Author Ruben Faraj 2017 , Email: Reben_f@hotmail.co.uk //////////////////
+|--------------------------------------------------------------------------
+*/
+
+.navbar-inverse{
+	background-color:#9b59b6;
+	
+}
+
+.footer-tweet {
+
+background-color:#9b59b6;
+width: 100%;
+color:white;
+text-align: center;
+height:221px;
+margin-top: 25px;
+padding: 10px;
+margin-bottom:0px;
+font-weight: bolder;
+
+}
+
