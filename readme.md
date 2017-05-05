@@ -25,3 +25,16 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+## How To Run This project 
+Install Laravel Version 5.3 or later 
+Create a new twitter developer account at https://dev.twitter.com/
+create a new App https://apps.twitter.com/app/new.
+Generate a token key and secret key 
+go to .env.example in the project and replace the token and secret key with yours one .
+##Author  : REBEN FARAJ 
+Email   : Reben_f@hotmail.co.uk
+Website : www.webdesign.me.uk
+Date    :02-05-2017 
+If you required further information about this project please feel free to contact me 
+
+#Thank You
